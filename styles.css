@@ -1,0 +1,39 @@
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin: 0 40px;
+   
+}
+nav a{
+    color: #fff;
+}
+
+nav a {
+  color: #fff;
+}
+
+aside {
+  background-color: #f4f4f4;
+  width: 95%;
+  padding: 25px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
